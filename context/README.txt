@@ -1,0 +1,1 @@
+These files contain information about a simulated American Football league. The annual salary cap is $254 million dollars. Teams may not pay players in excess of this amount.
